@@ -1,5 +1,5 @@
 # Shopzilla
-A mock ecommerce store displaying projects.
+A mock ecommerce store displaying vaious products.
 
 ## Features
 * Browse through different products.
