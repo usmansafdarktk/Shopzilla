@@ -1,5 +1,5 @@
 # Shopzilla
-A mock ecommerce store displaying projects built with React.
+A mock ecommerce store displaying projects.
 
 ## Features
 * Browse through different products.
